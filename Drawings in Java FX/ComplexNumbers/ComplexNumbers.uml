@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>task2.ComplexNumbers</OriginalElement>
+  <nodes>
+    <node x="-46.0" y="-77.0">task2.ComplexNumbers</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="137.0" y="106.0" />
+  <SelectedNodes>
+    <node>task2.ComplexNumbers</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
