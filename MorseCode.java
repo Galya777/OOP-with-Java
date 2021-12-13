@@ -49,9 +49,5 @@ public class MorseCode {
         }
      return new String(encode);
     }
-    String decode(String morseCode){
-        char[] decode= new char[morseCode.length()/5];
-
-        return new String(decode);
-    }
+   
 }
