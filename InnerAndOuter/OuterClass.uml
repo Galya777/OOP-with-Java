@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>task4.OuterClassA</OriginalElement>
+  <nodes>
+    <node x="39.5" y="151.0">task4.OuterClassA.InnerClassA</node>
+    <node x="0.0" y="0.0">task4.OuterClassA</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="task4.OuterClassA.InnerClassA" target="task4.OuterClassA" relationship="INNER_CLASS">
+      <point x="0.0" y="-51.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="116.0" y="126.5" />
+  <SelectedNodes>
+    <node>task4.OuterClassA</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
