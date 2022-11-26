@@ -1,0 +1,13 @@
+package task3;
+
+    interface Comparable
+    {
+        boolean greater(Comparable obj);
+        // this function
+         // compares this reference in the implementation class
+// with the obj reference, according to the class definition
+// of the meaning of the relation greater
+   // Use operator “instanceof “ to check for the obj reference type and
+// make an explicit type conversion
+    }
+
